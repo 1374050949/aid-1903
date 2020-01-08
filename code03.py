@@ -15,3 +15,5 @@ name = input("please input name:")
 age = input("please input age:")
 print("the name is :"+name)
 print("the age is :"+age)
+
+print("say hello")
